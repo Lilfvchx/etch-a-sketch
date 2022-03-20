@@ -1,0 +1,14 @@
+
+ .divcentral {
+  width: 1000px;
+  height: 1000px;
+  display: grid;
+} 
+.grid{
+  background-color: black;
+ 
+}
+.active{
+  background-color: white;
+  border: 20px solid blue;
+}
