@@ -1,8 +1,22 @@
-
+body{
+  background-color: black;
+}
+#eliminargrids{
+  display: flex;
+  flex-direction: row;
+  height:400px;
+  width: 1000px;
+  background-color: aqua;
+  font-size: 150px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: crimson;
+  text-align: center;
+}
  .divcentral {
   width: 1000px;
   height: 1000px;
   display: grid;
+  
 } 
 .grid{
   background-color: black;
